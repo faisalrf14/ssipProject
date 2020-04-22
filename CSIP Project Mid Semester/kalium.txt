@@ -1,0 +1,5 @@
+<h3> Kalium </h3>
+<p> Nomor Atom  : 19 </p>
+<p> Massa Atom  : 39,0983 g/mol </p>
+<p> Titik Lebur : 63,5 &deg; C </p>
+<p> Titik Didih	: 760 &deg; C </p>

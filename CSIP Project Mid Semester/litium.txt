@@ -1,0 +1,5 @@
+<h3> Litium </h3>
+<p> Nomor Atom  : 3 </p>
+<p> Massa Atom  : 6,941 g/mol </p>
+<p> Titik Lebur : 180,5 &deg; C </p>
+<p> Titik Didih	: 1.342 &deg; C </p>

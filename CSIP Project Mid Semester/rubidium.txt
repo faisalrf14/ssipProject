@@ -1,0 +1,5 @@
+<h3> Rubidium </h3>
+<p> Nomor Atom  : 37 </p>
+<p> Massa Atom  : 85,4678 g/mol </p>
+<p> Titik Lebur : 39,31 &deg; C </p>
+<p> Titik Didih	: 688 &deg; C </p>

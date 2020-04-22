@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>How To Check Purity Of Metal</title>
+	<script src="code.js"></script>
+	<style type="text/css">
+		*{margin-top: 10px};
+		*{background-image: url("whitepapper.jpg")};
+		.p {margin-left: 10px;
+		}
+
+		nav 
+    		{
+    	 	background-color: black;
+      		position: absolute;
+      		top: 0;
+      		left: 0;
+      		width: 100%;
+      		height: 70px;
+      		padding: 10px 100px;
+      		box-sizing: border-box;
+      		opacity: .8s;
+      		}
+
+		nav ul
+		{
+  			background-color: black;
+  			float: right;
+  			display: flex;
+		}
+
+		ul 
+		{
+		    list-style-type: none;
+		    margin: 0;
+		    padding: 0;
+		    overflow: hidden;
+		    background-color: #333;
+		}
+
+		li a 
+		{
+		  	text-transform: uppercase;
+		  	font-size: 26px;
+		    display: block;
+		    color: white;
+		    text-align: center;
+		    padding: 0px 16px;
+		    text-decoration: none;
+		}
+
+		li a:hover 
+		{
+    		background-color: #111;
+		}
+		.pos
+		{
+			color: black;
+			position: absolute;
+			top: 80px;
+
+		}
+
+		h1
+		{
+			position: absolute;
+			top: 80px;
+			text-align: center;
+			color: black;
+		}
+
+		.edit
+		{
+			top: 120px;
+			position: absolute;
+		}
+
+	</style>
+</head>
+
+<body background ="whitepapper.jpg")>
+	
+	<nav>
+		<ul>
+			<li><a class="active" href="index.html">Home</a></li>
+			<li><a href="calculation.html">Calculation</a></li>
+			<li><a href="#about">About</a></li>
+		</ul>
+	</nav>
+
+
+	<img src="ikatankimia.gif" style="width: 180px; position:absolute; margin-left:1100px; top:80px;"></img>
+	<center><h1> Check Your Purity of Metal </h1></center>
+	
+	
+
+	<div class="edit">
+	<table style="margin-left: 20px;">
+			<td>Masukkan (Ar) Unsur yang di inginkan</td>
+			<td><input type="number" id="atom" size="16" name=""></td>
+			<td><button onclick="atomsbm()" type="submit" >Submit</button></td>
+	</table>
+
+	<table style="margin-left: 20px;">
+			<td>Please Fill The Weight from The Metal</td>
+			<td><input type="number" id="wght" size="16" name="weight"></td>
+			<td>(gram)</td>
+			<td><button onclick="wghtsbm()" type="submit" >Submit</button></td>		
+	</table>
+	<p style="margin-left: 20px;">Kemungkinan Terdapat Udara Bebas yang Mempengaruhi Kemurnian Logam(Oksigen, Hidrogen, Helium)</p>
+	
+
+		<button style="margin-left: 20px;" onclick="myFunction()">Predict</button>
+		<div style="margin-left: 20px;" id="bbs"></div>
+	
+		<button style="margin-left: 20px;" onclick="calc()" type="submit">Calculation</button>
+		<td align="center"><input id="hasil"></input></td>
+
+		<button style="margin-left: 20px;" onclick="ref()" type="submit">Refresh</button>
+		<td align="center"></input></td>
+
+	</div>
+
+
+	
+</body>
+</html>

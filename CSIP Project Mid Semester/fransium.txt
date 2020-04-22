@@ -1,0 +1,5 @@
+<h3> Fransium </h3>
+<p> Nomor Atom  : 87 </p>
+<p> Massa Atom  : 233 g/mol </p>
+<p> Titik Lebur : 27 &deg; C </p>
+<p> Titik Didih	: 677 &deg; C </p>

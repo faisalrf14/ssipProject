@@ -1,0 +1,5 @@
+<h3> Berilium </h3>
+<p> Nomor Atom  : 4 </p>
+<p> Massa Atom  : 9,012182 g/mol </p>
+<p> Titik Lebur : 1.287 &deg; C </p>
+<p> Titik Didih	: 2.469 &deg; C </p>

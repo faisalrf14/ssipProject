@@ -1,0 +1,93 @@
+
+		nav 
+    		{
+    	 	background-color: black;
+      		position: fixed;
+      		top: 0;
+      		left: 0;
+      		width: 100%;
+      		height: 70px;
+      		padding: 10px 100px;
+      		box-sizing: border-box;
+      		opacity: .8s;
+      		}
+
+		nav ul
+		{
+  			background-color: black;
+  			float: right;
+  			display: flex;
+		}
+
+		ul 
+		{
+		    list-style-type: none;
+		    margin: 0;
+		    padding: 0;
+		    overflow: hidden;
+		    background-color: #333;
+		}
+
+		li a 
+		{
+		  	text-transform: uppercase;
+		  	font-size: 26px;
+		    display: block;
+		    color: white;
+		    text-align: center;
+		    padding: 14px 16px;
+		    text-decoration: none;
+		}
+
+		li a:hover 
+		{
+    		background-color: #111;
+		}
+		.pos
+		{
+			color: black;
+			position: absolute;
+			top: 80px;
+
+		}
+		img
+		{
+			position: absolute;
+			top: 150px;
+		}
+		#results
+		{
+			position: absolute;
+			color: red;
+			font-size: 20px;
+			top: 565px;
+		}
+		#test{
+			position: absolute;
+			color: red;
+			font-size: 100px;
+			top: 555px;
+		
+		}
+		.img1
+		{
+			position: absolute;
+			top: 100px;
+			left: 100px;
+			width: 1;
+			height: 1;
+		}
+		.printout
+		{
+			position: absolute;
+			left: 1070px;
+			top: 130px;
+
+		}
+		.pojok {
+
+			position: absolute;
+			left: 1300px;
+			top: 147px;
+			opacity: 0;
+		}

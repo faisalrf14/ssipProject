@@ -1,0 +1,5 @@
+<h3> Natrium </h3>
+<p> Nomor Atom  : 11 </p>
+<p> Massa Atom  : 22,98 g/mol </p>
+<p> Titik Lebur : 97,5 &deg; C </p>
+<p> Titik Didih	: 883 &deg; C </p>
